@@ -10,16 +10,16 @@ const projects = [
     demoUrl: "https://e-agilaapp.store",
     githubUrl: "https://github.com/Enuj06/AgilaEcommerce",
   },
-  {
-    id: 2,
-    title: "osu!idle",
-    description:
-      "An idle game made in 30 minutes :)",
-    image: "/projects/project2.png",
-    tags: ["Godot", "GDScript", "Game"],
-    demoUrl: "https://osu-idle-minii50s-projects.vercel.app/osu!idle.html",
-    githubUrl: "https://github.com/Minii50/osu-idle",
-  },
+  // {
+  //   id: 2,    
+  //   title: "osu!idle",
+  //   description:
+  //     "An idle game made in 30 minutes :)",
+  //   image: "/projects/project2.png",
+  //   tags: ["Godot", "GDScript", "Game"],
+  //   demoUrl: "https://osu-idle-minii50s-projects.vercel.app/osu!idle.html",
+  //   githubUrl: "https://github.com/Minii50/osu-idle",
+  // },
 ];
 
 export const ProjectsSection = () => {
